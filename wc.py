@@ -19,7 +19,7 @@ for task in task_list:
             temp_task[0][-1].replace('*','')
             temp_task[0] += """<tspan font-weight="bold" fill="#EBCB8B">***</tspan>"""
 
-        temp_task[0] += f"""<tspan font-weight="bold" fill="#BF616A">{temp_task[1]}</tspan>"""
+        temp_task[0] += f""" <tspan font-weight="bold" fill="#BF616A">{temp_task[1]}</tspan>"""
     else:
         if temp_task[0][-1] == '*':
             temp_task[0].replace('*','')
