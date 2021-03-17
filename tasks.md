@@ -1,9 +1,4 @@
-Quantum Computing* -t 10:00 am
-English Assignment*
-VueJS*
-Competetive Programming*
-physics assignments
-AI course - NLP
-Flutter
-Chess AI
-Manim - simulation
+task1
+task2*
+task3 -t 6:00pm
+task4* -t 7:30pm
