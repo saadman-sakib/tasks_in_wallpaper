@@ -1,9 +1,9 @@
-physics 308 lectures
+Quantum Computing* -t 10:00 am
+English Assignment*
+VueJS*
+Competetive Programming*
 physics assignments
 AI course - NLP
 Flutter
-Competetive Programming
 Chess AI
 Manim - simulation
-Quantum Computing
-English Assignment
