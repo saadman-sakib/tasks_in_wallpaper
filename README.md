@@ -8,11 +8,11 @@ picture_with_dir = "/home/saadman/Desktop/My_Workspace/wallpaper_change/test.svg
 tasklist_with_dir = "/home/saadman/Desktop/My_Workspace/wallpaper_change/tasks.md" #the path of your tasks.md file
 ```
 
-then u should add tasks in the tasks.md file.
+Then u should add tasks in the tasks.md file.
 
-if it's important, put a star at the end of the task,
+If the task is important, put a star at the end of the task.
 
-if you want to specify time, add " -t {your time}" at the end of the task
+If you want to specify time, add " -t {your time}" at the end of the task.
 
 example:
 
